@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientTextView">
+        <attr name="textStartColor" format="integer|reference|color"/>
+        <attr name="textEndColor" format="integer|reference|color"/>
+        <attr name="text" format="string|reference"/>
+        <attr name="textSize" format="integer"/>
+        <attr name="textIsBold" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="GradientButton">
+        <attr name="buttonStartColor" format="integer|reference|color"/>
+        <attr name="buttonEndColor" format="integer|reference|color"/>
+        <attr name="buttonText" format="string|reference"/>
+        <attr name="buttonTextSize" format="integer"/>
+        <attr name="buttonTextColor" format="integer|reference|color"/>
+        <attr name="buttonTextIsBold" format="integer"/>
+    </declare-styleable>
+</resources>
