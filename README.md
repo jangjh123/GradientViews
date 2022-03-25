@@ -8,6 +8,17 @@
 ![0](https://user-images.githubusercontent.com/82919343/160193872-f14923ec-c9da-468c-817e-62dc990292c3.png)
 
 ---
+## Let's do this. 😎
+- 1. Download release file. (only aar flie.)
+- 2. Drag and drop into [your_project/app/libs]
+- 3. In app-level-gradle, type like below and sync.
+```
+dependencies {
+    implementation files('libs/gradientviewslib-release.aar')
+    ...
+}
+```
+---
 ## How to use 👨‍🎨👩‍🎨
 
 ### GradientTextView
