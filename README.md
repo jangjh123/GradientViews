@@ -58,10 +58,6 @@ dependencies {
 
 위 예시에 모든 속성이 다 포함되어 있어요. **app: 으로 시작하는 모든 속성**이 해당 라이브러리 속성의 전부랍니다.
 
-## Language 🛠
-
-### 100% Java (surely, you can use it in kotlin projects)
-
 ## Review
 
 커스텀 뷰에 대한 막연한 두려움이 있었습니다.
