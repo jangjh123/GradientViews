@@ -35,7 +35,7 @@ dependencies {
         app:textStartColor="#00ff00" />
 ```
 
-### GradientTextView
+### GradientButton
 ```
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
